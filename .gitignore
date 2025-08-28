@@ -1,0 +1,20 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python / Node (keep if relevant; remove if not)
+__pycache__/
+*.py[cod]
+.env
+node_modules/
+
+# Nix / dev shells
+.direnv/
+.result
+result
+.nix-*
+target/
